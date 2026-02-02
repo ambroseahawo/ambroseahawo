@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/dc330d0c-ae46-41fd-a972-8bcfc7a8b5b7" height="120" />
-  <h3>Hello, I'm Ambrose</h3>
+  <h2>Learn. Build. Deploy</h2>
   <p>
     Software Engineer
   </p>
